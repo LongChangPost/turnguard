@@ -27,7 +27,7 @@
 名字叫 TurnGuard。
 一个很小的 conversation-routing protocol。
 
-https://github.com/LongChangPost/turnguard
+https://github.com/MrHistoryLeo/turnguard
 
 ### 2/
 
@@ -134,7 +134,7 @@ provider drop / reconnect
 
 TurnGuard 是我公开发布的第一个。
 
-https://github.com/LongChangPost/turnguard
+https://github.com/MrHistoryLeo/turnguard
 
 ## 备用短帖
 
@@ -151,11 +151,11 @@ TurnGuard 不是什么大 framework。
 先判断新消息是 task / interrupt / redirect / correction / background，
 再决定继续、排队、纠错、恢复主线，还是停下来等人。
 
-https://github.com/LongChangPost/turnguard
+https://github.com/MrHistoryLeo/turnguard
 
 ## 发布备注
 
-- GitHub repo 公开后确认链接可打开：`https://github.com/LongChangPost/turnguard`。
+- GitHub repo 公开后确认链接可打开：`https://github.com/MrHistoryLeo/turnguard`。
 - 配图：`launch-posts/turnguard-x-cover.png`。
-- 不建议在公开帖里提阿珍、CoCo、Hermes 迁移路径等内部上下文。
-- “真实 agent 压力测试”可以讲，但不要把内部机器路径、Notion 链接、agent 名字放进 X。
+- 不建议在公开帖里提内部 agent 名称、机器路径、Notion 链接或迁移上下文。
+- “真实 agent 压力测试”可以讲，但不要把私有执行环境细节放进 X。
