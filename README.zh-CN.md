@@ -61,7 +61,7 @@ cp -r skills/turnguard ~/.hermes/skills/
 GitHub repo 公开后，Hermes 用户也可以直接从 GitHub 安装：
 
 ```bash
-hermes skills install MrHistoryLeo/turnguard/skills/turnguard
+hermes skills install LongChangPost/turnguard/skills/turnguard
 ```
 
 ### OpenClaw

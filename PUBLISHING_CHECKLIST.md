@@ -59,7 +59,7 @@ Before publishing:
 - `skills/turnguard/SKILL.md` validates as a skill.
 - `name` is `turnguard`, lowercase and hyphen-safe.
 - The repo does not contain secrets or old agent state.
-- Confirm `https://github.com/MrHistoryLeo/turnguard` is live before publishing the X thread.
+- Confirm `https://github.com/LongChangPost/turnguard` is live before publishing the X thread.
 
 ## Launch Order
 
@@ -72,5 +72,5 @@ Before publishing:
 7. Publish the X thread.
 8. Publish or submit to skill registries:
    - OpenClaw / ClawHub: `clawhub skill publish skills/turnguard`
-   - Hermes: `hermes skills publish skills/turnguard --to github --repo MrHistoryLeo/turnguard`
+   - Hermes: `hermes skills publish skills/turnguard --to github --repo LongChangPost/turnguard`
 9. Pin or bookmark the repo for future skill updates.
