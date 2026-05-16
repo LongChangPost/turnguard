@@ -1,0 +1,11 @@
+# Local-only test notes
+TURNGUARD_TEST_PROCESS.md
+
+# Local environment and machine state
+.env
+.env.*
+auth.json
+*.log
+*.bak
+node_modules/
+.DS_Store
